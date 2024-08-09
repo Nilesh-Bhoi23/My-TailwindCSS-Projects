@@ -1,0 +1,39 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container {
+    height: 750px;
+    width: max-width;
+    background-color: rgb(248, 0, 0);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.box1 {
+    display: flex;    
+    height: 150px;
+    width: 950px;
+    background-color: black;
+} 
+
+.cwh {
+    height: 120px;
+    margin:10px 0px 0px 10px;
+    border-radius: 10px;
+}
+.para1 {
+    color: white;
+    font-weight: bold;
+    font-size: 18px;
+    margin: 25px 0px 0px 10px;
+}
+
+.para2 {
+    color: cadetblue;
+    margin: 15px 0px 0px 10px; 
+    font-size: 14px;
+}
