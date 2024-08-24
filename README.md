@@ -7,3 +7,5 @@
 <h2>Project 4</h2> <h3>Sliding content with sticky tab Navbar Using Tailwind CSS</h3>
 <hr>
 <h2>Project 5</h2> <h3>Basic design</h3>
+<hr>
+<h2>Project 6</h2> <h3>having Animations in navbar (Home ,Service, About us & Contact US in Single Page) </h3>
